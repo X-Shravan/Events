@@ -72,4 +72,7 @@ Click Finish – Android Studio will build your project.
 
 🛠️ Optional Settings (Recommended) Enable Gradle Offline Mode for faster builds.
 
-Install Plugins: Go to File > Settings > Plugins (JetBrains plugins like ADB Idea, Material Theme UI).![image](https://github.com/user-attachments/assets/2e7e6ad3-2a86-48f7-8f00-c693189764fd)
+Install Plugins: Go to File > Settings > Plugins (JetBrains plugins like ADB Idea, Material Theme UI).
+![image](https://github.com/user-attachments/assets/2e7e6ad3-2a86-48f7-8f00-c693189764fd)
+
+![image](https://github.com/user-attachments/assets/83c781d6-56cb-4a8d-927d-d172d5db8fd4)
